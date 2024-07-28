@@ -45,9 +45,9 @@ let num6 = 5;
 let i6 = num6;
 let factorial = 1;
 do {
-  factorial *= num6;
-  num6--;
-} while (num6 > 1);
+  factorial *= i6;
+  i6--;
+} while (i6 > 1);
 console.log(factorial);
 
 ///ACTIVITY 4 
